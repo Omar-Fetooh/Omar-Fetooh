@@ -33,7 +33,7 @@ Full-Stack Software Engineer building **ERP, E-commerce, CMS, and AdTech** platf
 
 ##  Featured Projects
 
-### [Elkasass — Home Appliances E-Commerce Store]
+### Elkasass — Home Appliances E-Commerce Store
 `Next.js` `React` `TypeScript` `Medusa.js` `Paymob` `Tailwind CSS` `React Query` `React Hook Form` `Zod` `ShadcnUI`
  
 Production e-commerce store and Medusa-powered admin dashboard handling thousands of real customer orders, with brands, reviews, coupons, and promo codes. Integrated Paymob for local payments, Meta Pixel for marketing attribution, and Microsoft Clarity for UX analysis.
